@@ -1,9 +1,9 @@
-package com.lavajato.LavaJato_2.service;
+package com.lavajato.LavaJato.service;
 
 import java.util.List;
 
-import com.lavajato.LavaJato_2.entities.Cliente;
-import com.lavajato.LavaJato_2.repository.ClienteRepository;
+import com.lavajato.LavaJato.entities.Cliente;
+import com.lavajato.LavaJato.repository.ClienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

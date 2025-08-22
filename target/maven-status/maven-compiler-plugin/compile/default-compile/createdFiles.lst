@@ -1,0 +1,5 @@
+com\lavajato\LavaJato\controller\ControllerCliente.class
+com\lavajato\LavaJato\entities\Cliente.class
+com\lavajato\LavaJato\repository\ClienteRepository.class
+com\lavajato\LavaJato\service\ClienteService.class
+com\lavajato\LavaJato\LavaJatoApplication.class

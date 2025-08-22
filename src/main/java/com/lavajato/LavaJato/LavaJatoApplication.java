@@ -1,13 +1,13 @@
-package com.lavajato.LavaJato_2;
+package com.lavajato.LavaJato;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LavaJato2Application {
+public class LavaJatoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LavaJato2Application.class, args);
+		SpringApplication.run(LavaJatoApplication.class, args);
 	}
 
 }

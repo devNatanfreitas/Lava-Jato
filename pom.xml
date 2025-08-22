@@ -9,9 +9,9 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.lavajato</groupId>
-	<artifactId>LavaJato_2</artifactId>
+	<artifactId>LavaJato</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>LavaJato_2</name>
+	<name>LavaJato</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
@@ -25,9 +25,10 @@
 
 		<!-- MySQL Connector/J -->
 		<dependency>
-			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.28</version>
+			<groupId>com.mysql</groupId>
+			<artifactId>mysql-connector-j</artifactId>
+			<version>8.0.33</version>
+			<scope>runtime</scope>
 		</dependency>
 
 		<!-- Spring Boot Starter for Testing -->

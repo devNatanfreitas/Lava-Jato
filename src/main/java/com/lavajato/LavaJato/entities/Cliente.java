@@ -1,4 +1,4 @@
-package com.lavajato.LavaJato_2.entities;
+package com.lavajato.LavaJato.entities;
 
 import javax.persistence.*;
 import java.io.Serializable;

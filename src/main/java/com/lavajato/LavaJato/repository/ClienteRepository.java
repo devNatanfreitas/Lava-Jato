@@ -1,6 +1,6 @@
-package com.lavajato.LavaJato_2.repository;
+package com.lavajato.LavaJato.repository;
 
-import com.lavajato.LavaJato_2.entities.Cliente;
+import com.lavajato.LavaJato.entities.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,7 +1,7 @@
-package com.lavajato.LavaJato_2.controller;
+package com.lavajato.LavaJato.controller;
 
-import com.lavajato.LavaJato_2.entities.Cliente;
-import com.lavajato.LavaJato_2.service.ClienteService;
+import com.lavajato.LavaJato.entities.Cliente;
+import com.lavajato.LavaJato.service.ClienteService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

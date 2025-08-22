@@ -1,10 +1,10 @@
-package com.lavajato.LavaJato_2;
+package com.lavajato.LavaJato;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LavaJato2ApplicationTests {
+class LavaJatoApplicationTests {
 
 	@Test
 	void contextLoads() {
